@@ -1,4 +1,4 @@
-# EDFAL DOCUMENTATION - NEXT.JS
+# EDFAL DOCUMENTATION - NUXT.JS 2 With bridge enabled 
 
 This is Small App to create any documentatation, back-end is separated but it's in private, contact me if you needed [Linkedin](https://www.linkedin.com/in/wada-ahmad/)
 
